@@ -1,1 +1,1 @@
-web: python veb.py
+web: gunicorn veb:app
